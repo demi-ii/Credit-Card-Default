@@ -19,8 +19,8 @@ The goal is to demonstrate skills in:
 •	Features: Demographics (age, gender, education, marriage), credit history, payment status (PAY_0–PAY_6), and default status
  
 🔹 **Key Questions Answered**
-1.	Which age group has the highest default rate?
-2.	How does payment history severity affect likelihood of default?
+1.	What is the most risky age group ?
+2.	Which credit limit ranges have higher default rates?
 3.	What demographic groups (gender, education, marital status) show higher risk?
 4.	Can past monthly delays (PAY_0–PAY_6) be used to anticipate future default?
  
