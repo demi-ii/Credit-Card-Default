@@ -22,7 +22,6 @@ The goal is to demonstrate skills in:
 1.	What is the most risky age group ?
 2.	Which credit limit ranges have higher default rates?
 3.	What demographic groups (gender, education, marital status) show higher risk?
-4.	Can past monthly delays (PAY_0–PAY_6) be used to anticipate future default?
  
 🔹 **Methodology**
 1.	**SQL Analysis**
